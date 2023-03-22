@@ -69,6 +69,7 @@ def triangle(start, end):
         left(120)
 
     end_fill()
+    #hola
 
 
 def tap(x, y):
